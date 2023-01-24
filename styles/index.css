@@ -12,3 +12,7 @@ main{
     padding: 100px 150px;
     
 }
+ul{
+    list-style: none;
+    text-justify: auto;
+}
