@@ -1,0 +1,14 @@
+main{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.banner{
+    background-image: url(../images/banner.png) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: auto;
+    height: 400px;
+    padding: 100px 150px;
+    
+}
